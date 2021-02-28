@@ -48,4 +48,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<p aling="center">made by Juliana Izac 🌼<p>
+<p align="center">made by Juliana Izac 🌼<p>
