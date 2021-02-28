@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador. Esse é um projeto desenvolvido durante a Next Level Week, realizada por @Rocketseat.
+O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador. Esse é um projeto desenvolvido durante a Next Level Week, realizada por **[@Rocketseat](https://github.com/Rocketseat)**.
 
 ## 🔖 Layout
 
@@ -48,4 +48,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<p align="center">made by Juliana Izac 🌼<p>
+<p align="center">made by <strong>Juliana Izac</strong> 🌼<p>
